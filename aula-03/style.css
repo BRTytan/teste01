@@ -1,0 +1,15 @@
+.div01{
+    background-color: blue;
+    width: 300px;
+    height: 40px;
+    padding-right: 50px;
+}
+section{
+    background-color: chartreuse;
+}
+.div02{
+    background-color: brown;
+    width: 300px;
+    height: 40px;
+    margin: 50px;
+}
